@@ -3,13 +3,13 @@
 **Gross-To-Net** là một ứng dụng Python được phát triển trong khuôn khổ chương trình thực tập tại AvePoint. Dự án này nhằm mục đích tính toán lương **net** (lương thực nhận) từ lương **gross** (lương tổng) dựa trên các quy định về thuế và bảo hiểm tại Việt Nam.
 
 ## 📁 Cấu trúc thư mục
-
+```
 Gross-To-Net/ ├── src/ │ └── ... # Mã nguồn chính
               ├── run_and_open.py # Script chính để chạy ứng dụng 
               ├── output_with_net_salary.xlsx # Kết quả xuất ra dưới dạng Excel
               ├── .env # Biến môi trường (ví dụ: cấu hình) 
               ├── pyproject.toml # Cấu hình dự án (sử dụng Poetry)
-
+```
 ## 🚀 Hướng dẫn sử dụng
 
 ### 1. Cài đặt Poetry (nếu chưa có)
