@@ -19,22 +19,22 @@ pip install poetry
 poetry install
 poetry run python run_and_open.py
 ```
-⚙️ Các tính năng chính
-Tính toán lương net từ lương gross dựa trên các khoản khấu trừ như:
+## ⚙️ Các tính năng chính
+### Tính toán lương net từ lương gross dựa trên các khoản khấu trừ như:
 
-Bảo hiểm xã hội (Social Insurance)
+  Bảo hiểm xã hội (Social Insurance)
+  
+  Bảo hiểm y tế (Health Insurance)
+  
+  Bảo hiểm thất nghiệp (Unemployment Insurance)
+  
+  Thuế thu nhập cá nhân (Personal Income Tax)
+  
+  Xuất kết quả ra file Excel để dễ dàng theo dõi và chia sẻ.
 
-Bảo hiểm y tế (Health Insurance)
-
-Bảo hiểm thất nghiệp (Unemployment Insurance)
-
-Thuế thu nhập cá nhân (Personal Income Tax)
-
-Xuất kết quả ra file Excel để dễ dàng theo dõi và chia sẻ.
-
-🧪 Môi trường phát triển
-Python 3.11
-
-Poetry (quản lý gói và môi trường ảo)
-
-Các thư viện khác được liệt kê trong pyproject.toml
+## 🧪 Môi trường phát triển
+  Python 3.11
+  
+  Poetry (quản lý gói và môi trường ảo)
+  
+  Các thư viện khác được liệt kê trong pyproject.toml
