@@ -1,0 +1,1 @@
+#python run_and_open.py ->> để mở trực tiếp web 
